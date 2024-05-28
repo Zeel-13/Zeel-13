@@ -1,5 +1,5 @@
 # 💫 About Me: 
-🎓 Pre final year student pursuing degree in Computer Science with a specialization in Artificial Intelligence and Machine Learning. <br>
+🎓 final year student pursuing degree in Computer Science with a specialization in Artificial Intelligence and Machine Learning. <br>
 🌱 I’m currently learning : Web Development <br>
 📫 How to reach me : **zeeldhengre265512@gmail.com**
 
